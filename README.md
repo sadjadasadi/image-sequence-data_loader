@@ -9,7 +9,7 @@ The dataset directory must have a template like below
 
 ![alt text](https://github.com/sadjadasadi/image-sequence-data_loader/blob/main/1.png)
 OR
-![alt text](https://github.com/sadjadasadi/image-sequence-data_loader/blob/main/3.png)
+![alt text](https://github.com/sadjadasadi/image-sequence-data_loader/blob/main/1.1.png)
 
 + at first time_step ,data_dir ,img_format must be config. 
 
